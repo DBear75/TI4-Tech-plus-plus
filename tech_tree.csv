@@ -1,0 +1,44 @@
+Technology Name,Technology Type,B Prereqs,Y Prereqs,G Prereqs,R Prereqs,Ability,No change from previous build?,,
+Antimass Deflectors,Propulsion,,,,,Your ships can move into and through asteroid fields.,TRUE,,FALSE
+Dark Energy Tap,Propulsion,,,,,"After you perform a tactial action in a system that contains a frontier token, if you have 1 or more ships in that system, explore that token.
+
+Your ships can retreat into adjacent systems that do not contain other players' units, even if you do not have units or control planets in that system.",TRUE,,FALSE
+Sling Relay,Propulsion,1,,,,ACTION: Exhaust this card to produce 1 ship in any system that contains one of your space docks.,TRUE,,FALSE
+Distributed Neural Interfaces,Biotic,1,,,,Apply -2 to BOMBARDMENT and SPACE CANNON rolls made against your units.,FALSE,,FALSE
+Gravity Drive,Propulsion,2,,,,"During the move ships step of a tactical action, you may exhaust this card to apply +1 to the move value of 1 of your ships.",TRUE,,FALSE
+Gravity Catapults,Cybernetic,2,,,,"At the start of your turn, you may exhaust this card to move 1 of your ships from a system that contains your structure(s) to an adjacent system that contains your structure(s) and no other players' ships.",FALSE,,FALSE
+Light/wave Deflectors,Propulsion,3,,,,"Before moving ships, you may exhaust this card to choose 1 system that contains your ships. Your ships in that system may move through systems that contain other player's ships.",FALSE,,FALSE
+Transit Diodes,Warfare,3,,,,"During the ""commit ground forces"" step of your tactical action in a system containing your ship(s), you may exhaust this card to commit up to 4 ground forces from any planets you control.",FALSE,,FALSE
+Rift Drives,Propulsion,4,,,,"After you move ships into a system containing another player’s ships, that player must make a gravity rift roll for each of their non-fighter ships.
+
+
+Apply +1 to your gravity rift rolls.",FALSE,,FALSE
+Sarween Tools,Cybernetic,,,,,"When 1 or more of your units use PRODUCTION, reduce the combined cost of the produced units by 1.",TRUE,,FALSE
+Scanlink Drone Network,Cybernetic,,,,,"When you activate a system that contains a planet you control, explore 1 planet in that system which contains 1 or more of your units.",TRUE,,FALSE
+Graviton Laser System,Cybernetic,,1,,,"You may exhaust this card after 1 or more of your units roll for their Space Cannon ability; hits produced by those units must be assigned to non-fighter ships, if able.",FALSE,,FALSE
+Duranium Armor,Warfare,,1,,,"At the end of a round of combat, you may exhaust this card to repair each of your damaged units in the combat.",FALSE,,FALSE
+Predictive Intelligence,Cybernetic,,2,,,"At the end of your turn, you may redistribute your command tokens.",TRUE,,FALSE
+Warp Matrix,Propulsion,,2,,,"At the start of the move ships step of a tactical action, you may exhaust this card to treat 2 systems that contain your structure(s) as adjacent during the move ships step of this tactical action.",FALSE,,FALSE
+Transit Nodes,Cybernetic,,3,,,"At the start of the move ships step of a tactical action, you may exhaust this card to choose a system that contains your structure(s); Apply +1 to the move value of up to 3 your ships in that system.",FALSE,,FALSE
+Cybernetic Jammers,Biotic,,3,,,"When your opponent rolls an unmodified 2 during the first round of combat, produce a hit against their units.
+
+When your opponent rolls an unmodified 1 during a combat, produce a hit against their units.",FALSE,,FALSE
+Nano Technology,Cybernetic,,4,,,"When executing the secondary ability of strategy cards, you may spend a trade good or commodity instead or a strategy token. Place tokens from your reinforcements instead of your strategy pool.",FALSE,,FALSE
+Neural Motivator,Biotic,,,,,"At the start of a player's turn, you may exhaust this card to draw 1 action card.",TRUE,,FALSE
+Psychoarchaeology,Biotic,,,,,"When researching a non-unit upgrade technology owned by a neighbor, ignore 1 prerequisite or ready a technology specialty planet you control of that technology's color.",FALSE,,FALSE
+Bio-Stims,Biotic,,,1,,"At the start or end of a turn, you may exhaust this card to ready a planet you control with a technology specialty or a non-faction technology you own with 1 or less prerequisites.",FALSE,,FALSE
+Cybernetic-Stims,Cybernetic,,,1,,"At the start of space combat, exhaust this card and choose 1 of your ships. That ship gains ANTI-FIGHTER BARRAGE 10 and rolls a die for each of your opponent’s fighters in the combat.",FALSE,,FALSE
+Hyper Metabolism,Biotic,,,2,,"During the action phase, you may exhaust this card to gain 1 command token.",TRUE,,FALSE
+Alloyphage Torpedoes,Warfare,,,2,,"At the start of each round of combat, damage 1 of your opponent’s undamaged units with Sustain Damage in the combat.",FALSE,,FALSE
+X-89 Bacterial Weapon,Biotic,,,3,,"At the start of ground combat, choose 1 of your ships in the active system. That ship makes a combat roll for each opponent's ground force on the planet. For each successful combat roll, that planet's owner must assign 1 hit to a ground force on that planet.",FALSE,,FALSE
+Fleet Logistics,Propulsion,,,3,,"After performing an action, you may exhaust this card to perform an additional action.",TRUE,,FALSE
+Xenopsychology,Biotic,,,4,,"After you perform a strategic action, you may exhaust this card to gain 1 command token or perform the secondary ability of that strategy card without spending or placing command tokens.",FALSE,,FALSE
+Plasma Scoring,Warfare,,,,,"When 1 or more of your units make a roll for a unit ability, 1 of those units may roll 1 additional die.",TRUE,,FALSE
+AI Development Algorithm,Warfare,,,,,"When researching a unit upgrade technology, you may ignore 1 prerequisite or spend 2 resources to ignore 2 prerequisites.",FALSE,,FALSE
+Self Assembly Routines,Warfare,,,,1,"When producing units, you may exhaust this card to decrease the cost of the production by 2 and increase the number of units you may produce by 2.",TRUE,,FALSE
+Ion Drive,Propulsion,,,,1,"During the movement step of your tactical actions, apply +1 to the move value of a flagship.",TRUE,,FALSE
+Magen Defense Grid,Warfare,,,,2,"Before assigning hits to your units during combat, you may exhaust this card to cancel up to 3 hits.",TRUE,,FALSE
+Daxcive Animators,Biotic,,,,2,"When you win a ground combat or when at least 2 of your infantry on a planet are destroyed, place an infantry on that planet from your reinforcements.",FALSE,,FALSE
+AI Targeting Systems,Warfare,,,,3,"At the start of a round of space combat, you may exhaust this card to apply -1 to all your combat rolls; For each of your combat rolls that produce a hit, produce 1 additional hit.",FALSE,,FALSE
+Integrated Economy,Cybernetic,,,,3,"At the end of your turn, you may exhaust this card to use the PRODUCTION ability of 1 of your units.",TRUE,,FALSE
+Assault Cannon,Warfare,,,,4,"At the start of space combat, your opponent must destroy 1 of their non-fighter, non-ground force ships for every 3 non-fighter, non-ground force ships you have in that system.",FALSE,,FALSE
