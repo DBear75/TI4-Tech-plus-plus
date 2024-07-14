@@ -9,7 +9,7 @@ Gravity Drive,Propulsion,2,,,,"During the move ships step of a tactical action, 
 Gravity Catapults,Cybernetic,2,,,,"At the start of your turn, you may exhaust this card to move 1 of your ships from a system that contains your structure(s) to an adjacent system that contains your structure(s) and no other players' ships.",FALSE,,FALSE
 Light/wave Deflectors,Propulsion,3,,,,"Before moving ships, you may exhaust this card to choose 1 system that contains your ships. Your ships in that system may move through systems that contain other player's ships.",FALSE,,FALSE
 Transit Diodes,Warfare,3,,,,"During the ""commit ground forces"" step of your tactical action in a system containing your ship(s), you may exhaust this card to commit up to 4 ground forces from any planets you control.",FALSE,,FALSE
-Rift Drives,Propulsion,4,,,,"After you move ships into a system containing another player’s ships, that player must make a gravity rift roll for each of their non-fighter ships.
+Rift Drives,Propulsion,4,,,,"After the move ships step of your tactical actions, other players choose a number of their ships in the active system equal to your non-fighter ships in that system, choosing non-fighter ships if able. They roll for each chosen ship as if it moved out of a gravity rift.
 
 
 Apply +1 to your gravity rift rolls.",FALSE,,FALSE
